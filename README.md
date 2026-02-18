@@ -1,4 +1,3 @@
-https://chatgpt.com/backend-api/estuary/content?id=file_000000009af0720eb8f50dfbeccf833c&ts=492068&p=fs&cid=1&sig=a1ac5eecdccd4c2a83fc00f1e6bf401d44d6e90b5401b76bb1c50211d43aed85&v=0
 
 # 🐍 SnakeDiccionario
 
@@ -47,7 +46,8 @@ El objetivo fue crear una experiencia rápida, intuitiva y elegante para buscar 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./preview.png" width="700"/>
+  <img src="<img width="1024" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/82dba17d-389e-4985-9f1e-f58ae8214152" />
+" width="700"/>
 </p>
 
 ---

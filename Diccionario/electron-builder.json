@@ -1,0 +1,16 @@
+{
+  "appId": "com.snake.diccionario",
+  "productName": "Snake Diccionario",
+  "directories": {
+    "output": "release"
+  },
+  "files": [
+    "dist/**/*",
+    "electron/**/*",
+    "package.json"
+  ],
+  "win": {
+    "target": "portable",
+    "icon": "public/image.png"
+  }
+}

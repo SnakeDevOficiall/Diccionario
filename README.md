@@ -1,4 +1,6 @@
 
+<img width="1024" height="1024" alt="Diccionario Snake" src="https://github.com/user-attachments/assets/491c3967-12d0-46a8-aff6-b213d42ece6e" />
+
 # 🐍 SnakeDiccionario
 
 > Un diccionario moderno creado para desarrolladores, estudiantes y curiosos del código.  
@@ -43,12 +45,7 @@ El objetivo fue crear una experiencia rápida, intuitiva y elegante para buscar 
 
 ---
 
-## 📸 Preview
 
-<p align="center">
-  <img src="<img width="1024" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/82dba17d-389e-4985-9f1e-f58ae8214152" />
-" width="700"/>
-</p>
 
 ---
 

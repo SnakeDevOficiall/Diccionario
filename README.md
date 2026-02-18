@@ -56,3 +56,7 @@ git clone https://github.com/TU-USUARIO/SnakeDiccionario.git
 cd SnakeDiccionario
 npm install
 npm run dev
+npm run bulder
+npm run dist
+npm run build
+
